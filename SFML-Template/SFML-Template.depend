@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509332770 source:/home/lalala9813/Escritorio/C++/SFML-Template/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<SFML/Audio.hpp>
+
